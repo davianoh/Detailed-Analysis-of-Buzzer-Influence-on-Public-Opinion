@@ -1,0 +1,12 @@
+created_at: Kolom ini menunjukkan waktu tweet dibuat dalam format timestamp (tahun-bulan-tanggal jam:menit:detik).
+username: Username atau nama pengguna Twitter yang membuat tweet. Dalam data ini, username dienkripsi.
+tcode: Kode unik yang menunjukkan jenis tweet (rt = retweet, mention = menyebutkan username lain, reply = membalas tweet).
+num_retweets: Jumlah retweet yang diterima oleh tweet tersebut.
+type: Jenis tweet (twit = tweet biasa).
+frn_cnt: Jumlah teman (following) yang dimiliki oleh pengguna.
+flw_cnt: Jumlah pengikut (followers) yang dimiliki oleh pengguna.
+sts_cnt: Jumlah status atau tweet yang telah dibuat oleh pengguna.
+loc: Lokasi yang dicantumkan oleh pengguna pada profilnya. Jika tidak ada, nilai akan menjadi 0.
+lst_cnt: Jumlah daftar (lists) publik yang mencantumkan pengguna.
+content: Isi atau konten dari tweet. Dalam beberapa kasus, konten tweet mengandung informasi tambahan seperti URL, hashtag, atau username yang disebut (mention).
+lang: Bahasa yang dideteksi dari konten tweet.
